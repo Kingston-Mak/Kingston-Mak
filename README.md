@@ -5,7 +5,12 @@
 - 📫 How to reach me... i do not know
                                          
 and yea .Let me show you a script i made.(Below)
-(I do not expect you to read it)
+I allow you to use this script but please be aware this script is fors0urce.io
+its a hacking game that for me is fun.
+Instructions:Copy the script below, go to s0urce.io open deveoper tools and paste the script into console.
+Start typing and the bot will take over the hacking.
+The script might be old so the bot might make a few mistakes scaning the word.
+
 
 // The delay, in milliseconds
 // 1000 milliseconds = 1 second
